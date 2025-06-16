@@ -3,8 +3,8 @@
 ![JIT](https://img.shields.io/badge/JIT-compatible-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 ---
-# melonyx-ios-setup
-Tutoriel simple pour installer MeloNX sur iPhone via SideStore, sans JIT manuel.
+![MeloNX iOS](banner.png)
+
 # 📱 Installer MeloNX sur iPhone (100 % fonctionnel, sans JIT)
 
 Un guide ultra simple pour installer l’émulateur **MeloNX** sur iOS avec SideStore, sans configuration complexe et sans besoin de JIT à chaque lancement.
@@ -61,8 +61,3 @@ Un guide ultra simple pour installer l’émulateur **MeloNX** sur iOS avec Side
 
 ## 👤 Auteur  
 **Matthieu80000**
-
----
-
-```md
-![MeloNX iOS](./banner.png)
