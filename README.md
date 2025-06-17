@@ -15,7 +15,7 @@ Un guide ultra simple pour installer l’émulateur **MeloNX** sur iOS avec Side
 
 ### 0. Prérequis : Installer SideStore  
 👉 De nombreux tutoriels sont disponibles sur YouTube.  
-🔗 [Site officiel de SideStore](https://sideloaded.store)
+🔗 [Site officiel de SideStore](https://sidestore.io)
 
 ---
 
